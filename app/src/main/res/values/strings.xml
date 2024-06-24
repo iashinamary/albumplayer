@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlbumPlayer</string>
+    <string name="retry">Retry</string>
+    <string name="error">Something went wrong</string>
+</resources>
